@@ -1,0 +1,42 @@
+body {
+  background-color: #b3e6ff;
+  font-size: 1em;
+  color: white;
+}
+
+
+#navbar-header a {
+  color: white;
+
+}
+
+h1 {
+  color: black;
+}
+
+#dish-container {
+height: 1000px;
+width: 100%;
+color: black;
+border: 1px solid black;
+margin-bottom: 10px;
+background-color: #bfbfbf;
+}
+
+#dish-container:hover {
+border: 1px solid red;
+}
+
+
+#dish-title {
+
+  position: relative;
+  text-align: center;
+  width: 100%;
+  top: 0;
+}
+
+#dish-type {
+
+  padding: 0 10px 0 10px;
+}
